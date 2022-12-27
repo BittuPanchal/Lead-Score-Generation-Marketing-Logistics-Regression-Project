@@ -41,3 +41,18 @@ You can score your leads based on multiple attributes, including the professiona
 # 10. TargetBuy - Buy or not
 ![Screenshot 2022-12-27 161307](https://user-images.githubusercontent.com/115232340/209656289-a8bc452b-cdca-4201-a0aa-d2508c455979.png)
 ![Screenshot 2022-12-27 161553](https://user-images.githubusercontent.com/115232340/209656501-e8bb73e0-cf73-4cc6-a807-b53483ca6074.png)
+
+# Basic Staistics of Dataset -
+![Screenshot 2022-12-27 160232](https://user-images.githubusercontent.com/115232340/209657247-96ed54f6-5753-418e-b912-a8ab499222ec.png)
+
+# Pairplot of Dataset - 
+![Screenshot 2022-12-27 163316](https://user-images.githubusercontent.com/115232340/209657899-f0e43f8e-6a75-44c4-95c2-40c6654716fc.png)
+
+# Correlation heatmap diagram - 
+![Screenshot 2022-12-27 163357](https://user-images.githubusercontent.com/115232340/209657910-55ad8ec1-57b1-4ad4-bdd9-f76fbfd5e82e.png)
+
+# Confusion Matrix - 
+![Screenshot 2022-12-27 163422](https://user-images.githubusercontent.com/115232340/209657923-e0c273e7-67bd-447c-8527-1dda58405cc3.png)
+
+# Final Potential Customer - 
+![Screenshot 2022-12-27 163514](https://user-images.githubusercontent.com/115232340/209657936-09cb9b07-51d3-4444-a5c4-6e91eb758810.png)
