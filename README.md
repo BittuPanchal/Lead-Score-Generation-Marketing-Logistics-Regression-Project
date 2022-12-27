@@ -7,6 +7,19 @@ You can score your leads based on multiple attributes, including the professiona
 2. Company Information - If you're a B2B organization, are you more interested in selling to organizations of a certain size, type, or industry? Are you more interested in B2B organizations or B2C organizations? You can ask questions like these on your landing page forms, too, so you can give points to leads who fit in with your target audience and take points away from leads who aren't at all what you're looking for.
 3. Online Behavior - How a lead interacts with your website can tell you a lot about how interested they are in buying from you. Take a look at your leads who eventually become customers: Which offers did they download? How many offers did they download? Which pages -- and how many pages -- did they visit on your site before becoming a customer? Both the number and types of forms and pages are important. You might give higher lead scores to leads who visited high-value pages (like pricing pages) or filled out high-value forms (like a demo request). Similarly, you might give higher scores to leads who had 30 page views on your site, as opposed to three. What about leads who have changed their behavior over time? If a lead has stopped visiting your website or downloading your offers, they may not be interested anymore. You might take points away from leads who've stopped engaging with your website after a certain period of time. How long -- 10 days, 30 days, 90 days -- depends on your typical sales cycle.
 
+# Steps -
+1. Import Libraries
+2. Get data
+3. Data cleaning
+4. Unique value of every column
+5. EDA (exploratory data analysis)
+6. Data Visualization
+7. Label Encoding
+8. Logistics Regression Model
+9. Confusion matrix
+10. Prediction
+11. Final potential customer
+
 # 1. ID - ID of each visitor
 
 # 2. DemAge - Age of each visitor
